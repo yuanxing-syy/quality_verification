@@ -1,0 +1,10 @@
+../test_images/1112_59077_32.jpg   left   Time:   0.164122   Left Score:   3.29607   Right Score:   -1.14233
+../test_images/1112_59078_32.jpg   right   Time:   0.315253   Left Score:   -1.17343   Right Score:   3.44952
+../test_images/1112_59080_128.jpg   right   Time:   0.467512   Left Score:   0.70080   Right Score:   2.33567
+../test_images/1112_93030_32.jpg   left   Time:   0.614351   Left Score:   -0.73082   Right Score:   -1.09471
+../test_images/2040_91365_64.jpg   left   Time:   0.762875   Left Score:   -0.12302   Right Score:   -1.49598
+../test_images/3826_70945_32.jpg   right   Time:   0.911734   Left Score:   -1.51644   Right Score:   -0.44867
+../test_images/3826_70946_32.jpg   right   Time:   1.062168   Left Score:   -1.88933   Right Score:   -0.77646
+../test_images/3826_70947_32.jpg   right   Time:   1.21657   Left Score:   -1.14123   Right Score:   -0.61084
+../test_images/3826_70948_32.jpg   right   Time:   1.367223   Left Score:   -1.50058   Right Score:   -0.78258
+../test_images/7266_99720_32.jpg   right   Time:   1.518436   Left Score:   -1.92997   Right Score:   -0.48646

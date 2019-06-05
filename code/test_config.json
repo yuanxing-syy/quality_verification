@@ -1,0 +1,10 @@
+{
+    "gpu" : "1",
+    "image_root" : "../test_images",
+    "model_path" : "../models/2018-09-28,17_07_52_ResNet_lr_1.00e-03_lr_decay_1.00e-01_weight_decay_1.00e-04_momentum_9.00e-01_batch_size_8/quality_model.pkl",
+    "test_lst_path"  : "../data_lst/test_10.lst",
+    "batch_size": 8,
+    "image_shape": [512, 512],
+    "pred_LR_log":"../prediction/Prediction_LR_log.txt",
+    "model_path_LR":"../models/LR_model.pkl"
+}
