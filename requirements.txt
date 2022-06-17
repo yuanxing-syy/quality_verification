@@ -1,5 +1,5 @@
 OpenCV==3.1.0
-numpy==1.12.1
+numpy==1.21.0
 torch==1.0.0
 sklearn==0.20.0
 skimage==0.14.1
